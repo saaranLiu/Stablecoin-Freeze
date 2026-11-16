@@ -1,0 +1,21 @@
+{
+  "provider": "https://ethereum-rpc.publicnode.com",
+  "checks": [
+    {
+      "method": "eth_getBlockByNumber",
+      "block_number": 26300770,
+      "block_hash": "0x087c33a63526887180f40a8fa2b66658fa0a3e83565ab5de0c956ffdd8eab727",
+      "block_timestamp": "0x6ae3ab77",
+      "transaction_hash": "0x53bd38b816c23e74134786c29a8c18d792777998a3b9326047b583100e88e2f3",
+      "transaction_position": 189
+    },
+    {
+      "method": "eth_getBlockByNumber",
+      "block_number": 26300954,
+      "block_hash": "0x3f333ca2f40043ed67f455995d011d3799a8ef07955c3582bf6a91d0703c3c43",
+      "block_timestamp": "0x6ae3b42f",
+      "transaction_hash": "0x7baba482077843514d9c72bac0110ba0916b0814288a72917e2c3bb27a9d8659",
+      "transaction_position": 88
+    }
+  ]
+}

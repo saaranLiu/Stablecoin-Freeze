@@ -1,0 +1,14 @@
+{
+  "source": "https://binancebreach.com/data/freezes.json",
+  "generated_at": "2026-11-09T09:26:35.339Z",
+  "record": {
+    "id": "1",
+    "chain": "ethereum",
+    "token": "USDT",
+    "frozen_address": "0x5227f603c1ee34ce3c06efe6477003bdfccb2f8c",
+    "txid": "0x7baba482077843514d9c72bac0110ba0916b0814288a72917e2c3bb27a9d8659",
+    "at": "2026-10-29T21:01:35.000Z",
+    "balance_at_freeze": "971149299.483240000000000000",
+    "raw_archive_key": "df/df67b0a7d566b7932ac66563ce7d67a5abb665aadf80041ece70e916e074384c"
+  }
+}

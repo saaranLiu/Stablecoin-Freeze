@@ -1,0 +1,55 @@
+{
+  "cohort_usdt": "1875464711.065362",
+  "actual_frozen_usdt": "1380464583.392882",
+  "actual_mobile_usdt": "0.000000",
+  "actual_boundary_usdt": {
+    "other": "435000127.672480",
+    "aave": "60000000.000000"
+  },
+  "first_freeze_delay_s": 2232,
+  "observed_transfers": 74,
+  "observed_freezes": 8,
+  "screening_sensitivity_at_first_freeze": {
+    "all_screened": {
+      "targets": [
+        "main",
+        "relayA",
+        "borrower"
+      ],
+      "at_24h_usdt": "1480464711.065362"
+    },
+    "without_relayA": {
+      "targets": [
+        "main",
+        "borrower"
+      ],
+      "at_24h_usdt": "1305464711.065362"
+    },
+    "without_borrower": {
+      "targets": [
+        "main",
+        "relayA"
+      ],
+      "at_24h_usdt": "1350464711.065362"
+    },
+    "direct_recipients_only": {
+      "targets": [
+        "main"
+      ],
+      "at_24h_usdt": "1175464711.065362"
+    }
+  },
+  "nonzero_observed_transfers": 70,
+  "at_24h_balances_usdt": {
+    "main": "1175464711.065362",
+    "saleA": "0.000000",
+    "saleB": "0.000000",
+    "borrower": "0.000000",
+    "relayA": "0.000000",
+    "saleC": "0.000000",
+    "saleD": "0.000000",
+    "terminalA": "174999872.327520",
+    "relayB": "0.000000",
+    "terminalB": "30000000.000000"
+  }
+}
